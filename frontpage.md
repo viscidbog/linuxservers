@@ -5,3 +5,6 @@ Ready assignments go here.
 
 ## [Assignment 2](h2.md)
 
+## [Assignment 3](h3.md)
+
+## [Assignment 4](h4.md)
